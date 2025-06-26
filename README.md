@@ -20,16 +20,18 @@ Pergerakan Presisi: Digerakkan oleh Motor Stepper melalui mekanisme roda gigi, m
 Berbasis ESP8266: Menggunakan mikrokontroler populer yang memiliki kapabilitas Wi-Fi untuk potensi pengembangan IoT di masa depan.
 
 __🛠️ Komponen yang Dibutuhkan__
-![Screenshot 2025-06-26 150928](https://github.com/user-attachments/assets/bf3cb691-89c2-4a60-be95-105068f51c8a)
+
 ![Screenshot 2025-06-26 150928](https://github.com/user-attachments/assets/bf3cb691-89c2-4a60-be95-105068f51c8a)
 
 
 
 __🔌 Wiring Diagram__
-![image](https://github.com/user-attachments/assets/4e174480-78c7-4961-84a8-6e8c2eaaf632)
+
 ![image](https://github.com/user-attachments/assets/4e174480-78c7-4961-84a8-6e8c2eaaf632)
 
 __📱Tampilan Aplikasi__
+
+![Screenshot 2025-06-26 151540](https://github.com/user-attachments/assets/793f9d09-53b1-4311-a1b8-1aed948e4e20)
 
 
 
